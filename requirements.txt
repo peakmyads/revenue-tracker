@@ -2,7 +2,7 @@ streamlit
 pandas
 gspread
 google-auth
-st-aggrid
+streamlit-aggrid
 reportlab
 altair
 openpyxl
